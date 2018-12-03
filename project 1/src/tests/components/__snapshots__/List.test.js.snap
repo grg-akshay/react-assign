@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render <List /> correctly with empty array 1`] = `
+<div
+  className="list-container"
+>
+  <div
+    className="list-container__title"
+  >
+    EXISTING ARRAY
+  </div>
+  <p>
+    No item in array
+  </p>
+</div>
+`;
+
+exports[`should render <List /> correctly without search 1`] = `
+<div
+  className="list-container"
+>
+  <div
+    className="list-container__title"
+  >
+    EXISTING ARRAY
+  </div>
+  <div
+    className=""
+    key="1000"
+  >
+    1000
+  </div>
+  <div
+    className=""
+    key="1002"
+  >
+    1002
+  </div>
+  <div
+    className=""
+    key="1004"
+  >
+    1004
+  </div>
+  <div
+    className=""
+    key="1006"
+  >
+    1006
+  </div>
+</div>
+`;

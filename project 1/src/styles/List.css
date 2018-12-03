@@ -1,0 +1,18 @@
+.list-container{
+  margin: 0 auto;
+  margin-top: 60px;
+  padding-top:10px;
+  padding-bottom:10px;
+  background:#316EA1;
+  width: 500px;
+  font-size: 60%;
+  border-radius: 10px;
+}
+
+.skip{
+    text-decoration: line-through;
+}
+.list-container__title{
+    color: black;
+    margin-bottom: 10px;
+}
